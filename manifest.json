@@ -1,0 +1,35 @@
+{
+    "name": "Abiyo",
+    "short_name": "Abiyo",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Introducing Abiyo – a revolutionary social media platform designed to redefine the way we connect and share in the digital age. Abiyo stands out from the crowd with its innovative features, fostering authentic connections and meaningful interactions. Whether you're looking to discover new interests, connect with like-minded individuals, or simply express yourself creatively, Abiyo provides a dynamic and user-friendly space for users to engage and build communities. Embrace a fresh social experience with Abiyo, where the focus is on fostering genuine connections and inspiring shared moments. Welcome to the future of social media – welcome to Abiyo.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
