@@ -42311,14 +42311,14 @@ return A.y($async$yJ,r)},
 D(a){var s=this,r=null,q=A.a([B.bB,B.rY],t.t_),p=A.ho(16),o=A.cj(r,A.aye("assets/logo.png"),B.m,r,r,r,r,100,r,r,r,r,r,100),n=A.aD(r,16,r),m=A.ax("Login",r,r,r,A.bc(r,r,r,r,r,r,r,r,r,r,r,24,r,r,B.ad,r,r,!0,r,r,r,r,r,r,r,r),r,r),l=A.aD(r,16,r),k=A.o1(r,s.d,A.hx(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Email",r,A.cv(B.iT,r,r,r),r,r,r,r,r,r,r,r,r,r,r),r,!1,new A.apS()),j=A.aD(r,12,r),i=A.o1(r,s.e,A.hx(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Password",r,A.cv(B.iU,r,r,r),r,r,r,r,r,r,r,r,r,r,r),r,!0,new A.apT()),h=A.aD(r,16,r),g=s.r?r:new A.apU(s,a),f=A.L5(r,r,r,r,r,r,8,r,r,r,r,r,r,new A.av(60,16,60,16),A.X(255,204,20,20),r,new A.c8(A.ho(8),B.n),r,r,r,r)
 return A.nP(r,A.cj(r,A.cU(new A.bt(B.bH,A.JC(new A.bt(B.bH,A.aDc(A.bN(A.a([o,n,m,l,k,j,i,h,A.a65(!1,s.r?A.jR(r,4,new A.t1(B.j,t.ZU)):A.ax("Login",r,r,r,A.bc(r,r,B.j,r,r,r,r,r,r,r,r,16,r,r,B.ad,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.m,r,r,r,r,r,g,r,f),A.aD(r,16,r),A.r1(A.ax("Don't have an account? Register here",r,r,r,A.bc(r,r,B.bB,r,r,r,r,r,r,r,r,r,r,r,B.ad,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.apV(a),r)],t.p),B.u,B.v,B.aY),s.f),r),8,r,new A.c8(p,B.n)),r),r,r),B.m,r,r,new A.cb(r,r,r,r,r,new A.q1(B.dt,B.bT,B.dl,q,r,r),B.a3),r,r,r,r,r,r,r,r),r,r,r,r)},
 A_(a){return this.alp(a)},
-alp(a){var s=0,r=A.z(t.z),q=1,p,o=[],n=this,m,l,k,j,i,h
+alp(a){var s=0,r=A.z(t.z),q=1,p,o=[],n=this,m,l,k,j,i
 var $async$A_=A.v(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:n.X(new A.apW(n))
 q=3
-j=n.y
-j===$&&A.b()
+k=n.y
+k===$&&A.b()
 s=6
-return A.r(j.tB(n.d.a.a,n.e.a.a),$async$A_)
+return A.r(k.tB(n.d.a.a,n.e.a.a),$async$A_)
 case 6:A.ar("hellcxzjhcnks "+n.y.mv(0).k(0))
 m=n.y.mv(0)
 m.bk(new A.apX(),t.P).kL(new A.apY())
@@ -42327,14 +42327,14 @@ o.push(5)
 s=4
 break
 case 3:q=2
-h=p
-l=A.Z(h)
-j=J.aL(l)
-k=A.cB(j,"AppwriteException: ","")
-A.ar("Signup failed: "+A.i(k))
-j=a.a7(t.O)
-j.toString
-j.f.hZ(A.ik(null,null,null,B.d2,null,B.z,null,A.ax(" "+A.i(k),null,null,null,null,null,null),B.b8,B.bk,null,null,null,null,null,null,null,null,null))
+i=p
+l=A.Z(i)
+k=J.aL(l)
+A.cB(k,"AppwriteException: ","")
+A.ar("Login failed")
+k=a.a7(t.O)
+k.toString
+k.f.hZ(A.ik(null,null,null,B.d2,null,B.z,null,A.ax("Something went wrong. Try again later",null,null,null,null,null,null),B.b8,B.bk,null,null,null,null,null,null,null,null,null))
 o.push(5)
 s=4
 break
@@ -43558,30 +43558,30 @@ a6=A.L5(q,q,q,q,q,q,q,q,q,q,q,q,q,new A.av(60,16,60,16),A.X(255,204,20,20),q,new
 a7=t.p
 return A.nP(q,A.cj(q,A.vw(new A.bt(new A.av(16,16,16,16),A.JC(new A.bt(B.bH,A.bN(A.a([A.aDc(A.bN(A.a([n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a8,a9,s,A.a65(!1,r.at?A.jR(q,4,new A.t1(B.j,t.ZU)):A.ax("Signup",q,q,q,A.bc(q,q,B.j,q,q,q,q,q,q,q,q,q,q,q,B.ad,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.m,q,q,q,q,q,a5,q,a6),A.aD(q,10,q),A.r1(A.ax("Already have an account? Login",q,q,q,A.bc(q,q,B.bB,q,q,q,q,q,q,q,q,q,q,q,B.ad,q,q,!0,q,q,q,q,q,q,q,q),q,q),new A.asW(b0),q)],a7),B.u,B.ba,B.q),r.w)],a7),B.eU,B.v,B.aY),q),8,q,new A.c8(o,B.n)),q),q,B.av),B.m,q,q,new A.cb(q,q,q,q,q,new A.q1(B.dt,B.bT,B.dl,p,q,q),B.a3),q,q,q,q,q,q,q,q),q,q,q,q)},
 od(a){return this.X1(a)},
-X1(a){var s=0,r=A.z(t.z),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f,e,d
+X1(a){var s=0,r=A.z(t.z),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f,e
 var $async$od=A.v(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:n.X(new A.at4(n))
 q=3
-k=n.w.gK()
-k.e=!0
-k.LM()
-s=k.n6()?6:7
+l=n.w.gK()
+l.e=!0
+l.LM()
+s=l.n6()?6:7
 break
-case 6:k=n.k2
-k===$&&A.b()
-j=n.d
-i=j.a.a
-h=n.e
-g=h.a.a
-f=n.f
+case 6:l=n.k2
+l===$&&A.b()
+k=n.d
+j=k.a.a
+i=n.e
+h=i.a.a
+g=n.f
 s=8
-return A.r(k.yL(0,i,f.a.a,g,"unique()"),$async$od)
+return A.r(l.yL(0,j,g.a.a,h,"unique()"),$async$od)
 case 8:s=9
-return A.r(n.k2.tB(j.a.a,h.a.a),$async$od)
+return A.r(n.k2.tB(k.a.a,i.a.a),$async$od)
 case 9:A.ar("doc creating ")
-A.ar("Name: "+f.a.a)
+A.ar("Name: "+g.a.a)
 A.ar("Phone: "+n.r.a.a)
-A.ar("Email: "+j.a.a)
+A.ar("Email: "+k.a.a)
 A.ar("Age: "+n.z.a.a)
 A.ar("Gender: "+n.Q)
 A.ar("Marital Status: "+n.as)
@@ -43593,14 +43593,14 @@ case 7:o.push(5)
 s=4
 break
 case 3:q=2
-d=p
-m=A.Z(d)
-k=J.aL(m)
-l=A.cB(k,"AppwriteException: ","")
-A.ar(" "+A.i(l))
-k=a.a7(t.O)
-k.toString
-k.f.hZ(A.ik(null,null,null,B.d2,null,B.z,null,A.ax(" "+A.i(l),null,null,null,null,null,null),B.b8,B.bk,null,null,null,null,null,null,null,null,null))
+e=p
+m=A.Z(e)
+l=J.aL(m)
+A.cB(l,"AppwriteException: ","")
+A.ar("Something went wrong. Try again later")
+l=a.a7(t.O)
+l.toString
+l.f.hZ(A.ik(null,null,null,B.d2,null,B.z,null,A.ax("Something went wrong. Try again later",null,null,null,null,null,null),B.b8,B.bk,null,null,null,null,null,null,null,null,null))
 o.push(5)
 s=4
 break
