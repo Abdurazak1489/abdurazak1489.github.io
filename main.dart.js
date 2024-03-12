@@ -43600,7 +43600,7 @@ A.cB(l,"AppwriteException: ","")
 A.ar("Something went wrong. Try again later")
 l=a.a7(t.O)
 l.toString
-l.f.hZ(A.ik(null,null,null,B.d2,null,B.z,null,A.ax("Something went wrong. Try again later",null,null,null,null,null,null),B.b8,B.bk,null,null,null,null,null,null,null,null,null))
+l.f.hZ(A.ik(null,null,null,B.d2,null,B.z,null,A.ax("Something went wrong.Please Try again later",null,null,null,null,null,null),B.b8,B.bk,null,null,null,null,null,null,null,null,null))
 o.push(5)
 s=4
 break
