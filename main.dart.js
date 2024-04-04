@@ -43429,7 +43429,7 @@ return A.z($async$qw,r)},
 lS(){var s=0,r=A.A(t._F),q,p=this
 var $async$lS=A.w(function(a,b){if(a===1)return A.x(b,r)
 while(true)switch(s){case 0:s=3
-return A.E(p.a.mH("65e33330c4e354d9d24b","65e32ce19fa8dd529314",A.a(['orderDesc("postedAt")'],t.s)),$async$lS)
+return A.E(p.a.mH("65e33330c4e354d9d24b","65e32ce19fa8dd529314",A.a(['orderDesc("postedAt")',"limit("+1e10+")"],t.s)),$async$lS)
 case 3:q=b.b
 s=1
 break
@@ -43589,7 +43589,7 @@ lR(a){return this.a0T(a)},
 a0T(a){var s=0,r=A.A(t._F),q,p=this
 var $async$lR=A.w(function(b,c){if(b===1)return A.x(c,r)
 while(true)switch(s){case 0:s=3
-return A.E(p.a.mH("65e33330c4e354d9d24b","65e32ce19fa8dd529314",A.a([A.RY("repliedTo","equal",a.z)],t.s)),$async$lR)
+return A.E(p.a.mH("65e33330c4e354d9d24b","65e32ce19fa8dd529314",A.a([A.RY("repliedTo","equal",a.z),"limit("+1e10+")"],t.s)),$async$lR)
 case 3:q=c.b
 s=1
 break
@@ -43607,7 +43607,7 @@ lU(a){return this.a14(a)},
 a14(a){var s=0,r=A.A(t._F),q,p=this
 var $async$lU=A.w(function(b,c){if(b===1)return A.x(c,r)
 while(true)switch(s){case 0:s=3
-return A.E(p.a.mH("65e33330c4e354d9d24b","65e32ce19fa8dd529314",A.a([A.RY("userId","equal",a)],t.s)),$async$lU)
+return A.E(p.a.mH("65e33330c4e354d9d24b","65e32ce19fa8dd529314",A.a([A.RY("userId","equal",a),"limit("+1e10+")"],t.s)),$async$lU)
 case 3:q=c.b
 s=1
 break
@@ -43617,7 +43617,7 @@ lT(a){return this.a11(a)},
 a11(a){var s=0,r=A.A(t._F),q,p=this
 var $async$lT=A.w(function(b,c){if(b===1)return A.x(c,r)
 while(true)switch(s){case 0:s=3
-return A.E(p.a.mH("65e33330c4e354d9d24b","65e32ce19fa8dd529314",A.a([A.RY("hashtags","search",a)],t.s)),$async$lT)
+return A.E(p.a.mH("65e33330c4e354d9d24b","65e32ce19fa8dd529314",A.a([A.RY("hashtags","search",a),"limit("+1e10+")"],t.s)),$async$lT)
 case 3:q=c.b
 s=1
 break
