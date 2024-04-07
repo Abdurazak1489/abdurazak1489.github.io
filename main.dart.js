@@ -48810,11 +48810,11 @@ A.a48.prototype={
 dd(){var s=this.dj$
 return s==null?this.hE():s}}
 A.zh.prototype={
-T(a){var s,r=null,q=A.a_(a).p3,p=q.z,o=t.p,n=A.b([A.bw("PadRacing",r,r,r,q.a,r,r),A.bw("First to 3 laps win",r,r,r,q.y,r,r),B.f5,A.aj8(B.a_W,new A.aq_(this)),A.bw("Arrow keys",r,r,r,p,r,r),B.f5,A.aj8(B.a_N,new A.aq0(this)),A.bw("WASD",r,r,r,p,r,r)],o),m=A.cC(r,r,p,"Made by ")
+T(a){var s,r=null,q=A.a_(a).p3,p=q.z,o=t.p,n=A.b([A.bw("PadRacing",r,r,r,q.a,r,r),A.bw("First to 3 laps win",r,r,r,q.y,r,r),B.f5,A.aj8(B.a_W,new A.aq_(this)),A.bw("Arrow keys",r,r,r,p,r,r),B.f5,A.aj8(B.a_N,new A.aq0(this)),A.bw("WASD",r,r,r,p,r,r)],o),m=A.cC(r,r,p,"")
 p=p==null?r:p.aBN(A.qq(B.cQ),B.i3)
 s=A.AJ(r,r,r)
 s.aY=new A.aq1()
-return A.jA(B.M,!0,r,A.fK(A.aTh(A.b([A.eU(A.b([new A.zi(n,r),new A.zi(A.b([A.YE(r,r,B.bC,r,r,!0,r,A.cC(A.b([m,A.cC(r,s,p,"Lukas Klingsbo (spydon)")],t.VO),r,r,r),B.az,r,r,B.ac,B.aA)],o),r)],o),B.O,B.P,B.J)],o)),r,r),B.l,B.y,0,r,r,r,r,r,B.cg)}}
+return A.jA(B.M,!0,r,A.fK(A.aTh(A.b([A.eU(A.b([new A.zi(n,r),new A.zi(A.b([A.YE(r,r,B.bC,r,r,!0,r,A.cC(A.b([m,A.cC(r,s,p,"ABIYO")],t.VO),r,r,r),B.az,r,r,B.ac,B.aA)],o),r)],o),B.O,B.P,B.J)],o)),r,r),B.l,B.y,0,r,r,r,r,r,B.cg)}}
 A.aq_.prototype={
 $0(){this.a.c.a6n(1)},
 $S:0}
@@ -48822,7 +48822,7 @@ A.aq0.prototype={
 $0(){this.a.c.a6n(2)},
 $S:0}
 A.aq1.prototype={
-$0(){A.abR(A.dQ("https://github.com/spydon",0,null),B.jI)},
+$0(){A.abR(A.dQ("https://abiyoapp.com",0,null),B.jI)},
 $S:0}
 A.zi.prototype={
 T(a){var s=null,r=A.qq(B.cQ)
