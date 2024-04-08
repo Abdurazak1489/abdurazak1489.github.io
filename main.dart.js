@@ -52277,7 +52277,7 @@ s=A.bs(s.length!==0?s[0].toUpperCase():"?",m,m,m,B.Zn,m,m)}s=A.bA(m,A.em(m,A.Eg(
 r=A.b([],i)
 q=k.e
 p=q.as
-if(p.length!==0&&k.f!=="yes")r.push(A.fo(A.b([A.kR(l,B.aK,20),B.VE,A.bs(p+" reposted",m,m,m,B.a_0,m,m)],i),B.P,B.H,B.D))
+if(p.length!==0&&k.f!=="profile")r.push(A.fo(A.b([A.kR(l,B.aK,20),B.VE,A.bs(p+" reposted",m,m,m,B.a_0,m,m)],i),B.P,B.H,B.D))
 p=a.x
 o=p?1:5
 o=A.b([A.bA(m,A.bs(a.b,m,m,m,B.Yg,m,m),B.k,m,m,m,m,m,new A.ax(0,0,o,0),m,m,m,m)],i)
@@ -53427,7 +53427,7 @@ A.aDw.prototype={
 $1(a){return A.vg(new A.aDt(a),J.bl(a))},
 $S:145}
 A.aDt.prototype={
-$2(a,b){return A.Dk(J.aZ(this.a,b),"yes")},
+$2(a,b){return A.Dk(J.aZ(this.a,b),"profile")},
 $S:103}
 A.aDx.prototype={
 $2(a,b){var s=J.as(a)
