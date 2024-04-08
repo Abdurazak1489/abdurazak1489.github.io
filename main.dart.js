@@ -52268,7 +52268,7 @@ r.toString
 s.v9(this.a.e,r)},
 $S:342}
 A.adR.prototype={
-$1(a){var s,r,q,p,o,n=this,m=null,l="assets/svgs/reabiyo.svg",k=n.a,j=n.b,i=t.p,h=A.b([],i),g=n.c,f=g.r,e=a.r,d=f===e
+$1(a){var s,r,q,p,o,n=this,m=null,l="assets/svgs/retweet.svg",k=n.a,j=n.b,i=t.p,h=A.b([],i),g=n.c,f=g.r,e=a.r,d=f===e
 if(d)h.push(A.mU(m,new A.zZ(new A.adC(k,n.d),B.JU,m,t.q3),m,m,m,0,0,m))
 s=a.e
 if(s.length!==0)s=new A.SS(A.Ga(s,B.dl,70,70),m)
@@ -53158,7 +53158,7 @@ A.vx.prototype={
 N(a){var s=null,r=this.c,q=r.e
 if(q===B.kp)q=B.JW
 else if(q===B.kq)q=A.kR("assets/svgs/like_filled.svg",B.fE,20)
-else q=q===B.kr?A.kR("assets/svgs/reabiyo.svg",B.i,20):s
+else q=q===B.kr?A.kR("assets/svgs/retweet.svg",B.i,20):s
 return A.zp(q,s,s,A.bs(r.a,s,s,s,s,s,s))}}
 A.aSf.prototype={
 $1(a){return new A.pj(a.b1($.aSs(),t.Hx),a.b1($.aXO(),t.S9),a.b1($.De(),t.Vg),a.b1($.aSx().gdu(),t.Am),new A.h1(t.Fo),!1)},
